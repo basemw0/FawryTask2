@@ -2,12 +2,11 @@
 
 The following project is a simple Online Bookstore system Design using OOP principles and java programming Language:
 
-1) Class Diagram
+## 1) Class Diagram
 ![Online Bookstore Class Diagram](https://github.com/user-attachments/assets/68e58b32-5e3c-4a0f-a44c-0ed7b4588a75)
 
-2) Classes logic and structure:
 
-## Class Structure and Logic
+## 2) Class Structure and Logic
 
 ### Core Classes
 
@@ -84,18 +83,13 @@ The following project is a simple Online Bookstore system Design using OOP princ
 - **Abstraction**: `Book` base class
 - **Inheritance**: All book types extend `Book`
 - **Interface**: `Shippable` for shipping capability
-- **SOLID Compliance**:
-  - Open/Closed principle (extensible for new book types)
-  - Single Responsibility for each class
-  - Liskov Substitution for book types
 
 ### Error Handling
-- Comprehensive validation for:
+- validation for:
   - Book availability
   - Stock levels
   - Customer information
   - Purchase eligibility (blocks demo books)
-- Clear error messages for all failure cases
 
 4) Sample test output:
 
