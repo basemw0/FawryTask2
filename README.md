@@ -91,7 +91,7 @@ The following project is a simple Online Bookstore system Design using OOP princ
   - Customer information
   - Purchase eligibility (blocks demo books)
 
-4) Sample test output:
+## 4) Sample test output:
 
 ![Test](https://github.com/user-attachments/assets/6dccd8d2-083f-4d49-9c28-a961d8031667)
 
